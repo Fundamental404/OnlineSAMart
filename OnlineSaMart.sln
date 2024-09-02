@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineSaMart.Server", "OnlineSaMart.Server\OnlineSaMart.Server.csproj", "{AA9D936F-AF23-4266-9667-ED0A7F9284D1}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "onlinesamart.client", "onlinesamart.client\onlinesamart.client.esproj", "{93776DD0-9F2A-42C2-80CC-1E238F1BA25A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA9D936F-AF23-4266-9667-ED0A7F9284D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9D936F-AF23-4266-9667-ED0A7F9284D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9D936F-AF23-4266-9667-ED0A7F9284D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9D936F-AF23-4266-9667-ED0A7F9284D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93776DD0-9F2A-42C2-80CC-1E238F1BA25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93776DD0-9F2A-42C2-80CC-1E238F1BA25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93776DD0-9F2A-42C2-80CC-1E238F1BA25A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{93776DD0-9F2A-42C2-80CC-1E238F1BA25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93776DD0-9F2A-42C2-80CC-1E238F1BA25A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93776DD0-9F2A-42C2-80CC-1E238F1BA25A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED20EBC2-2FCD-466B-9447-1DB008EAD0D7}
+	EndGlobalSection
+EndGlobal
